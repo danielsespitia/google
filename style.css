@@ -1,0 +1,199 @@
+html {
+  font-family: arial,sans-serif;
+}
+
+#gmail {
+  opacity: 80%;
+  font-size: 13px;
+  text-align: right;
+  margin-right: 168px;
+  margin-top: 25px;
+}
+
+#images {
+  opacity: 80%;
+  font-size: 13px;
+  text-align: right;
+  margin-right: 110px;
+  margin-top: -15px;
+}
+
+#apps-icon {
+  float: right;
+  opacity: 80%;
+  margin-right: 70px;
+  margin-top: -18px;
+  width: 20px;
+  height: 20px;
+}
+
+#user {
+  float: right;
+  object-fit: cover;
+  border-radius: 50%;
+  height: 35px;
+  width: 35px;
+  margin-top: -25px;
+  margin-right: -70px;
+}
+
+#main-logo {
+  position: absolute;
+  left: 42.9%;
+  padding-top: 155px;
+}
+
+#search-bar {
+  font-size: 16px;
+  border: 1px solid #E1E1E1;
+  border-radius: 50px;
+  height: 45px;
+  width: 584px;
+  background-color: #FFFFFF;
+  position: absolute;
+  left: 34.8%;
+  top: 33%;
+  padding-left: 45px;
+  background-image:url(https://www.pngkit.com/png/full/26-269603_search-magnifying-glass-icon-png-grey.png);
+  position: left;
+  background-size:15px;
+  background-repeat: no-repeat;
+  background-position: 20px;
+  background-image-color: #9AA0A6;
+}
+
+#google-search {
+  position: absolute;
+  top: 56.8%;
+  left: 50.1%;
+  margin: -150px;
+  border-radius: 3px;
+  font-size: 13.5px;
+  color: #67696B;
+  background-color: #F1F1F1;
+  border: none;
+  display: flex;
+  height: 33px;
+  width: 130px;
+}
+
+#lucky {
+  border-radius: 3px;
+  position: absolute;
+  top: 56.8%;
+  right: 51.4%; 
+  margin: -150px;
+  font-size: 13.5px;
+  color: #67696B;
+  background-color: #F1F1F1;
+  border: none;
+  display: flex;
+  height: 33px;
+  width: 130px;
+}
+
+#offer {
+  font-size: 13.3px;
+  color: #292929;
+  text-align: center;
+  padding-top: 419px;
+}
+
+#country {
+  color: #717179;
+  font-size: 15px;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 53px;
+  padding-left: 22px;
+}
+
+#ad {
+  color: #717179;
+  font-size: 14px;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 12px;
+  padding-left: 22px;
+}
+
+#bus {
+  color: #717179;
+  font-size: 14px;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 12px;
+  padding-left: 118px; 
+}
+
+#ab {
+  color: #717179;
+  font-size: 14px;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 12px;
+  padding-left: 202px;
+}
+
+#how {
+  color: #717179;
+  font-size: 14px;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 12px;
+  padding-left: 265px;
+}
+
+#priv {
+  color: #717179;
+  font-size: 14px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-bottom: 12px;
+  padding-right: 172px;
+}
+
+#terms {
+  color: #717179;
+  font-size: 14px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-bottom: 12px;
+  padding-right: 108px;
+}
+
+#sett {
+  color: #717179;
+  font-size: 14px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-bottom: 12px;
+  padding-right: 30px;
+}
+
+#rec1 {
+  height: 40px;
+  background: #F2F2F2;
+  border-top: 1px solid #E4E4E4;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: -1;
+}
+
+#rec2 {
+  height: 40px;
+  border-top: 1px solid #E4E4E4;
+/*  border-bottom: 1px solid red;*/
+  background: #F2F2F2;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 41px;
+  right: 0;
+  left: 0;
+  z-index: -2;
+}
